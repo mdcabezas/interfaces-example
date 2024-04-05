@@ -1,0 +1,4 @@
+###Go
+##Struct
+##Interfaces
+##Constructor
