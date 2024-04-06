@@ -1,6 +1,7 @@
 package pedidos
 
 type Item struct {
+	Id       int
 	Nombre   string
 	Codigo   string
 	Precio   float64
