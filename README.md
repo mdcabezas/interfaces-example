@@ -1,13 +1,14 @@
-# Go
-## STRUCT
-### Item
-### Venta  
+## Go
+### STRUCT
+#### Item
+#### Venta  
 
-## INTERFACES
-### Vendedor  
+### INTERFACES
+#### Vendedor  
 
-## CONSTRUCTOR
-### NuevaVenta
+### CONSTRUCTOR
+#### NuevaVenta
 
-## METHODS
-### CalcularTotal
+### METHODS
+#### CalcularTotal
+#### ObtenerItems
